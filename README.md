@@ -1,0 +1,1 @@
+# Crop-Disease-Detection-An-Ensemble-Approach-using-CNN-and-Transfer-Learning-Model
